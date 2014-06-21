@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\build\exploded-aar\FifteenPuzzleSolver\openCVLibrary248\unspecified\res" >
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\build\exploded-aar\FifteenPuzzleSolver\openCVLibrary248\unspecified\res\values\values.xml"
+                qualifiers="" >
+                <declare-styleable name="CameraBridgeViewBase" >
+                    <attr
+                        name="show_fps"
+                        format="boolean" />
+                    <attr
+                        name="camera_id"
+                        format="integer" >
+                        <enum
+                            name="any"
+                            value="-1" />
+                        <enum
+                            name="back"
+                            value="99" />
+                        <enum
+                            name="front"
+                            value="98" />
+                    </attr>
+                </declare-styleable>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res" >
+            <file
+                name="eight"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\eight.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="eight_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\eight_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="eleven"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\eleven.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="eleven_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\eleven_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fifteen"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\fifteen.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fifteen_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\fifteen_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="five"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\five.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="five_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\five_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="forthteen"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\forthteen.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="four"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\four.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fourteen_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\fourteen_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="four_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\four_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="nine"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\nine.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="nine_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\nine_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="one"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\one.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="one_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\one_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="one_template2"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\one_template2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="one_template3"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\one_template3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="one_template4"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\one_template4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="seven"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\seven.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="seven_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\seven_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="six"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\six.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="six_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\six_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ten"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\ten.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ten_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\ten_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="thirteen"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\thirteen.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="thirteen_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\thirteen_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="three"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\three.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="three_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\three_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="twelve"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\twelve.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="twelve_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\twelve_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="two"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\two.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="two_template"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable\two_template.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_siftexample"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\layout\activity_siftexample.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="siftexample"
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\menu\siftexample.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >15 Puzzle Solver
+                </string>
+            </file>
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\build\res\rs\release" />
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\build\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\release\res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\build\exploded-aar\FifteenPuzzleSolver\openCVLibrary248\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Almog\AndroidStudioProjects\FifteenPuzzleSolver\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
