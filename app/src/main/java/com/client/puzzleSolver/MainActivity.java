@@ -52,7 +52,7 @@ public class MainActivity extends Activity implements CalculationListener {
      * This variable determine if the application is in production mode or development mode
      * By using this variable you can determine if to see the deployment steps buttons
      */
-    private boolean isProductionMode = false;
+    private boolean isProductionMode = true;
 
     private MenuItem menuItemProductionMode,
             menuItemOrigImage, menuItemCanny,
